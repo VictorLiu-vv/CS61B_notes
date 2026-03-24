@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "OpenInIntelliJ",
+      "code": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\bin",
+      "arguments": "",
+      "showInMenu": true
+    }
+  ],
+  "sysexpInFileMenu": true
+}
